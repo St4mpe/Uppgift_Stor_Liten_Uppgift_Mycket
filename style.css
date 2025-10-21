@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100dvh;
+}
+header{
+    padding: 1rem;
+    background: lightgray;
+}
+nav{
+    padding: 0.7rem;
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;;
+}
+nav a{
+    padding: 0.5rem;
+    text-decoration: none;
+    user-select: none;
+    color: #000;
+    font-size: 18px;
+    border-radius: 0.5rem;
+    background: linear-gradient(90deg, rgb(130, 205, 175), rgb(130, 195, 205))  ;
+}
+.hela_text section{
+    height: 370px;
+    width: 100%;
+    outline: solid 2px #000;
+}
+.hela_text{
+    padding: 1rem;
+    display: flex;
+    flex-direction: column  ;
+    justify-content:space-between;
+    gap: 1rem;
+}
+.infoBox1{
+    display: flex;
+    flex-direction: row  ;
+    justify-content:space-between;
+    padding: 1rem;
+    gap: 1rem;
+}
+.infoBox1 section{
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 100%;
+    width: 100%;
+    outline: solid 2px #000;
+}
+.lillaBox1{
+    max-width: 30%;
+    padding: 1rem;
+}
+.lillaBox1 h2{
+    display: grid;
+    place-items: center;
+}
+.lillaBox1 p{
+    display: grid;
+    place-items: center;
+    font-size: 18px;
+}
+.storaBox1{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding: 1rem;
+    gap: 1rem;
+}
+.storaBox1img{
+    display: grid;
+    place-items: center;
+    min-height: 70%;
+}
+.storaBox1img img{
+    width: 300px;
+    height: 300px;
+}
