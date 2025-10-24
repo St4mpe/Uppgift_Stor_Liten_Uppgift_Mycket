@@ -22,7 +22,7 @@
             </section>
             <section class="storaBox1">
                 <section class="bildBox1">
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio harum quis doloremque dignissimos iste animi atque esse molestias corporis. Ipsum, cupiditate! Molestiae consequuntur omnis perspiciatis.</p>
+                    <p>Bild</p>
                 </section>
                 <section class="bildTxtBox1">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odit cupiditate blanditiis. Eos facilis explicabo maiores, vel mollitia temporibus quidem possimus nemo tempore, maxime deserunt tempora nesciunt cupiditate molestias iure nobis quia.</p>
