@@ -15,17 +15,17 @@
         <a href="#">Om Dig</a>
     </Nav>
     <section class="hela_text">
-        <section class="infoBox1 gridBox1">
+        <section class="infoBox1">
             <section class="lillaBox1">
                 <h2>Lorem, ipsum dolor.</h2>
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus itaque repudiandae libero. Blanditiis qui molestias perferendis accusantium suscipit, quis ab repudiandae, corporis enim magni praesentium!</p>
             </section>
             <section class="storaBox1">
-                <section class="storaBox1img gridBox2">
-                    <img src="https://cdn.pixabay.com/photo/2016/09/21/16/34/background-1685147_1280.jpg" alt="bild1">
+                <section class="bildBox1">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odio harum quis doloremque dignissimos iste animi atque esse molestias corporis. Ipsum, cupiditate! Molestiae consequuntur omnis perspiciatis.</p>
                 </section>
-                <section>
-
+                <section class="bildTxtBox1">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis odit cupiditate blanditiis. Eos facilis explicabo maiores, vel mollitia temporibus quidem possimus nemo tempore, maxime deserunt tempora nesciunt cupiditate molestias iure nobis quia.</p>
                 </section>
             </section>
         </section>
